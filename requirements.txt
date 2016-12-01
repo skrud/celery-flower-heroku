@@ -1,1 +1,12 @@
-flower
+amqp==2.1.1
+Babel==2.3.4
+backports.ssl-match-hostname==3.5.0.1
+billiard==3.5.0.2
+celery==4.0.0
+certifi==2016.9.26
+flower==0.9.1
+futures==3.0.5
+kombu==4.0.0
+pytz==2016.7
+tornado==4.2
+vine==1.1.3
